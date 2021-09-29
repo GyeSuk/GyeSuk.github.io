@@ -41,7 +41,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="C:\Users\user\Desktop\게임 프로젝트 2학기\선택 이미지.jpg">
+  <img src="선택 이미지.jpg" width = "40" height = "40">
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
